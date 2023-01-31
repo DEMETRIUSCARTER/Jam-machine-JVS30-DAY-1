@@ -10,6 +10,7 @@
  ## Built With
 
  - Javascript
+ - HTML
  
  ## COMPLETED WITH THE ASSISTANCE OF THIS TUTORIAL:
  - https://courses.wesbos.com/account/access/63d7f92287c5f77744c0210c/view/194130650
